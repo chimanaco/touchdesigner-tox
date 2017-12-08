@@ -8,16 +8,7 @@ Examples for all tox.
 
 ## Operator_adjust.tox
 
-Allows you to resize and relocate operator(s).
-
-Resize and reset TOP family operators.<br>
-![gif1](https://media.giphy.com/media/xT0xexsbS5jJEinaYE/giphy.gif)
-
-Resize and reset operators which contain `constant`.<br>
-![gif2](https://media.giphy.com/media/3o6fJ9DSKPWydAxOxy/giphy.gif)
-
-Relocate TOP which contain `constant`.<br>
-![gif3](https://media.giphy.com/media/xT0xeFhVPNKMhfldf2/giphy.gif)
+Allows you to resize, reset, relocate, destroy operator(s). You can filter operator(s) with family, name, and both family & name.
 
 ## Tween.tox
 
