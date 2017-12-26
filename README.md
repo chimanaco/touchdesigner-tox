@@ -17,7 +17,3 @@ Simple Tween based on Animation COMP.
 ## MIDI_LAUNCHCONTROL.tox
 
 For novation LAUNCHCONTROL.
-
-## Recorder_example.toe
-
-Screen capture you can choose recording time and codecs.
